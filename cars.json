@@ -1,0 +1,458 @@
+[
+    {
+        "city_mpg": 28,
+        "year": 2023,
+        "make": "Toyota",
+        "model": "Camry",
+        "transmission": "Automatic",
+        "drive": "Front-Wheel Drive"
+    },
+    {
+        "city_mpg": 25,
+        "year": 2024,
+        "make": "Honda",
+        "model": "Accord",
+        "transmission": "Automatic",
+        "drive": "Front-Wheel Drive"
+    },
+    {
+        "city_mpg": 27,
+        "year": 2023,
+        "make": "Ford",
+        "model": "Fusion",
+        "transmission": "Automatic",
+        "drive": "Front-Wheel Drive"
+    },
+    {
+        "city_mpg": 26,
+        "year": 2024,
+        "make": "Nissan",
+        "model": "Altima",
+        "transmission": "Automatic",
+        "drive": "Front-Wheel Drive"
+    },
+    {
+        "city_mpg": 24,
+        "year": 2023,
+        "make": "Chevrolet",
+        "model": "Malibu",
+        "transmission": "Automatic",
+        "drive": "Front-Wheel Drive"
+    },
+    {
+        "city_mpg": 23,
+        "year": 2024,
+        "make": "Volkswagen",
+        "model": "Jetta",
+        "transmission": "Automatic",
+        "drive": "Front-Wheel Drive"
+    },
+    {
+        "city_mpg": 30,
+        "year": 2023,
+        "make": "Hyundai",
+        "model": "Elantra",
+        "transmission": "Automatic",
+        "drive": "Front-Wheel Drive"
+    },
+    {
+        "city_mpg": 29,
+        "year": 2024,
+        "make": "Kia",
+        "model": "Optima",
+        "transmission": "Automatic",
+        "drive": "Front-Wheel Drive"
+    },
+    {
+        "city_mpg": 31,
+        "year": 2023,
+        "make": "Subaru",
+        "model": "Legacy",
+        "transmission": "Automatic",
+        "drive": "All-Wheel Drive"
+    },
+    {
+        "city_mpg": 28,
+        "year": 2024,
+        "make": "Mazda",
+        "model": "Mazda6",
+        "transmission": "Automatic",
+        "drive": "Front-Wheel Drive"
+    },
+    {
+        "city_mpg": 26,
+        "year": 2023,
+        "make": "Audi",
+        "model": "A4",
+        "transmission": "Automatic",
+        "drive": "Front-Wheel Drive"
+    },
+    {
+        "city_mpg": 25,
+        "year": 2024,
+        "make": "BMW",
+        "model": "3 Series",
+        "transmission": "Automatic",
+        "drive": "Rear-Wheel Drive"
+    },
+    {
+        "city_mpg": 27,
+        "year": 2023,
+        "make": "Mercedes-Benz",
+        "model": "C-Class",
+        "transmission": "Automatic",
+        "drive": "Rear-Wheel Drive"
+    },
+    {
+        "city_mpg": 24,
+        "year": 2024,
+        "make": "Lexus",
+        "model": "ES",
+        "transmission": "Automatic",
+        "drive": "Front-Wheel Drive"
+    },
+    {
+        "city_mpg": 23,
+        "year": 2023,
+        "make": "Acura",
+        "model": "TLX",
+        "transmission": "Automatic",
+        "drive": "Front-Wheel Drive"
+    },
+    {
+        "city_mpg": 29,
+        "year": 2024,
+        "make": "Genesis",
+        "model": "G70",
+        "transmission": "Automatic",
+        "drive": "Rear-Wheel Drive"
+    },
+    {
+        "city_mpg": 28,
+        "year": 2023,
+        "make": "Tesla",
+        "model": "Model 3",
+        "transmission": "Automatic",
+        "drive": "All-Wheel Drive"
+    },
+    {
+        "city_mpg": 30,
+        "year": 2024,
+        "make": "Volvo",
+        "model": "S60",
+        "transmission": "Automatic",
+        "drive": "Front-Wheel Drive"
+    },
+    {
+        "city_mpg": 31,
+        "year": 2023,
+        "make": "Jaguar",
+        "model": "XE",
+        "transmission": "Automatic",
+        "drive": "All-Wheel Drive"
+    },
+    {
+        "city_mpg": 28,
+        "year": 2024,
+        "make": "Land Rover",
+        "model": "Discovery Sport",
+        "transmission": "Automatic",
+        "drive": "All-Wheel Drive"
+    },
+    {
+        "city_mpg": 27,
+        "year": 2023,
+        "make": "Jeep",
+        "model": "Cherokee",
+        "transmission": "Automatic",
+        "drive": "Front-Wheel Drive"
+    },
+    {
+        "city_mpg": 25,
+        "year": 2024,
+        "make": "Ford",
+        "model": "Escape",
+        "transmission": "Automatic",
+        "drive": "Front-Wheel Drive"
+    },
+    {
+        "city_mpg": 26,
+        "year": 2023,
+        "make": "Chevrolet",
+        "model": "Equinox",
+        "transmission": "Automatic",
+        "drive": "Front-Wheel Drive"
+    },
+    {
+        "city_mpg": 24,
+        "year": 2024,
+        "make": "GMC",
+        "model": "Terrain",
+        "transmission": "Automatic",
+        "drive": "Front-Wheel Drive"
+    },
+    {
+        "city_mpg": 23,
+        "year": 2023,
+        "make": "Hyundai",
+        "model": "Tucson",
+        "transmission": "Automatic",
+        "drive": "Front-Wheel Drive"
+    },
+    {
+        "city_mpg": 29,
+        "year": 2024,
+        "make": "Kia",
+        "model": "Sportage",
+        "transmission": "Automatic",
+        "drive": "Front-Wheel Drive"
+    },
+    {
+        "city_mpg": 28,
+        "year": 2023,
+        "make": "Mazda",
+        "model": "CX-5",
+        "transmission": "Automatic",
+        "drive": "Front-Wheel Drive"
+    },
+        {
+            "city_mpg": 23,
+            "year": 2023,
+            "make": "Toyota",
+            "model": "Corolla",
+            "transmission": "Automatic",
+            "drive": "FWD"
+        },
+        {
+            "city_mpg": 19,
+            "year": 2023,
+            "make": "Ford",
+            "model": "F-150",
+            "transmission": "Automatic",
+            "drive": "4WD"
+        },
+        {
+            "city_mpg": 21,
+            "year": 2023,
+            "make": "Honda",
+            "model": "Civic",
+            "transmission": "Manual",
+            "drive": "FWD"
+        },
+        {
+            "city_mpg": 20,
+            "year": 2023,
+            "make": "Chevrolet",
+            "model": "Silverado 1500",
+            "transmission": "Automatic",
+            "drive": "4WD"
+        },
+        {
+            "city_mpg": 25,
+            "year": 2023,
+            "make": "Nissan",
+            "model": "Altima",
+            "transmission": "CVT",
+            "drive": "FWD"
+        },
+        {
+            "city_mpg": 22,
+            "year": 2023,
+            "make": "Jeep",
+            "model": "Wrangler",
+            "transmission": "Manual",
+            "drive": "4WD"
+        },
+        {
+            "city_mpg": 28,
+            "year": 2023,
+            "make": "Subaru",
+            "model": "Outback",
+            "transmission": "CVT",
+            "drive": "AWD"
+        },
+        {
+            "city_mpg": 27,
+            "year": 2023,
+            "make": "Tesla",
+            "model": "Model 3",
+            "transmission": "Automatic",
+            "drive": "AWD"
+        },
+        {
+            "city_mpg": 24,
+            "year": 2023,
+            "make": "BMW",
+            "model": "3 Series",
+            "transmission": "Automatic",
+            "drive": "RWD"
+        },
+        {
+            "city_mpg": 20,
+            "year": 2023,
+            "make": "Audi",
+            "model": "A4",
+            "transmission": "Automatic",
+            "drive": "AWD"
+        },
+        {
+            "city_mpg": 22,
+            "year": 2023,
+            "make": "Ford",
+            "model": "Escape",
+            "transmission": "Automatic",
+            "drive": "FWD"
+        },
+        {
+            "city_mpg": 21,
+            "year": 2023,
+            "make": "Toyota",
+            "model": "RAV4",
+            "transmission": "Automatic",
+            "drive": "AWD"
+        },
+        {
+            "city_mpg": 26,
+            "year": 2023,
+            "make": "Honda",
+            "model": "CR-V",
+            "transmission": "CVT",
+            "drive": "AWD"
+        },
+        {
+            "city_mpg": 23,
+            "year": 2023,
+            "make": "Chevrolet",
+            "model": "Equinox",
+            "transmission": "Automatic",
+            "drive": "FWD"
+        },
+        {
+            "city_mpg": 24,
+            "year": 2023,
+            "make": "Hyundai",
+            "model": "Sonata",
+            "transmission": "Automatic",
+            "drive": "FWD"
+        },
+        {
+            "city_mpg": 21,
+            "year": 2023,
+            "make": "Kia",
+            "model": "Sorento",
+            "transmission": "Automatic",
+            "drive": "FWD"
+        },
+        {
+            "city_mpg": 22,
+            "year": 2023,
+            "make": "Mazda",
+            "model": "CX-5",
+            "transmission": "Automatic",
+            "drive": "AWD"
+        },
+        {
+            "city_mpg": 25,
+            "year": 2023,
+            "make": "Volkswagen",
+            "model": "Jetta",
+            "transmission": "Automatic",
+            "drive": "FWD"
+        },
+        {
+            "city_mpg": 20,
+            "year": 2023,
+            "make": "Jeep",
+            "model": "Grand Cherokee",
+            "transmission": "Automatic",
+            "drive": "4WD"
+        },
+        {
+            "city_mpg": 29,
+            "year": 2023,
+            "make": "Toyota",
+            "model": "Camry",
+            "transmission": "Automatic",
+            "drive": "FWD"
+        },
+        {
+            "city_mpg": 23,
+            "year": 2023,
+            "make": "Ford",
+            "model": "Explorer",
+            "transmission": "Automatic",
+            "drive": "FWD"
+        },
+        {
+            "city_mpg": 24,
+            "year": 2023,
+            "make": "Nissan",
+            "model": "Rogue",
+            "transmission": "CVT",
+            "drive": "FWD"
+        },
+        {
+            "city_mpg": 21,
+            "year": 2023,
+            "make": "Subaru",
+            "model": "Forester",
+            "transmission": "CVT",
+            "drive": "AWD"
+        },
+        {
+            "city_mpg": 23,
+            "year": 2023,
+            "make": "Tesla",
+            "model": "Model Y",
+            "transmission": "Automatic",
+            "drive": "AWD"
+        },
+        {
+            "city_mpg": 28,
+            "year": 2023,
+            "make": "Hyundai",
+            "model": "Tucson",
+            "transmission": "Automatic",
+            "drive": "FWD"
+        },
+        {
+            "city_mpg": 26,
+            "year": 2023,
+            "make": "Mazda",
+            "model": "3",
+            "transmission": "Automatic",
+            "drive": "FWD"
+        },
+        {
+            "city_mpg": 25,
+            "year": 2023,
+            "make": "Honda",
+            "model": "Accord",
+            "transmission": "CVT",
+            "drive": "FWD"
+        },
+        {
+            "city_mpg": 24,
+            "year": 2023,
+            "make": "Chevrolet",
+            "model": "Malibu",
+            "transmission": "Automatic",
+            "drive": "FWD"
+        },
+        {
+            "city_mpg": 23,
+            "year": 2023,
+            "make": "Toyota",
+            "model": "Tacoma",
+            "transmission": "Automatic",
+            "drive": "4WD"
+        },
+        {
+            "city_mpg": 22,
+            "year": 2023,
+            "make": "Ford",
+            "model": "Edge",
+            "transmission": "Automatic",
+            "drive": "FWD"
+        }
+    ]
